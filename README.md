@@ -1,4 +1,4 @@
-# Smart-Voting-System-Using-Blockchain
+
 # Secure E-Voting System Using Ethereum Blockchain
 
 This project is a decentralized and tamper-proof e-voting system built using **Ethereum blockchain**, **Solidity smart contracts**, and a **React.js frontend**. It leverages **MetaMask** for secure user authentication and the **Polygon Mumbai Testnet** for low-cost, scalable deployment.
