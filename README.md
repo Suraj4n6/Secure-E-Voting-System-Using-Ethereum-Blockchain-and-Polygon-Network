@@ -107,6 +107,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 For questions, support, or collaboration inquiries:
 
 **Sai Suraj R**  
-📧 [suraj.shetty4600@gmail.com](mailto:suraj.shetty4600@gmail.com)
+📧 [suraj.shetty4600@gmail.com](mailto:suraj.shetty4600@gmail.com) 
 
 
